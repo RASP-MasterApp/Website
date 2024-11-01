@@ -1,0 +1,2 @@
+var e=t=>({description:"Seamlessly designed to showcase your AI technology solutions in a sleek and clean way, Vaktrablends cutting-edge aesthetics with powerful functionality, helping you stand out in the competitive startup landscape.",favicon:new URL("https://framerusercontent.com/images/amjSV3wZqyu9ya1QLJLLt19Aqs.png").href,socialImage:new URL("https://framerusercontent.com/images/fJnuZDbjVPKiwz7Giq7TV6T5WXs.jpg").href,title:"Vaktra- AI-Powered Company Framer Template"}),r=e;export{r as a};
+//# sourceMappingURL=chunk-7JEI24OU.mjs.map
