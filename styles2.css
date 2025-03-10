@@ -139,6 +139,12 @@
   color: white;
 }
 
+.style_productImageContainer__3zAXL {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 @media screen and (max-width: 600px) {
   .style_productCard__cDEZ7 {
     width: 90%;

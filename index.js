@@ -42,7 +42,7 @@ document
     let message = document.getElementById("message").value;
 
     // Format email body
-    let mailtoLink = `mailto:mannurkarswapnil@gmail.com?subject=Contact Form Submission&body=
+    let mailtoLink = `mailto:support@vaktra.in?subject=Contact Form Submission&body=
       Name: ${name}%0D%0A
       Email: ${email}%0D%0A
       Phone: ${phone}%0D%0A
